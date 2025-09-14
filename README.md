@@ -1,4 +1,4 @@
-# Portal State App 📱✨
+# Portal State App ✨
 
 Welcome to **my very first React Native experiment**!  
 This app is small, but like Rick Sanchez says:
@@ -17,7 +17,7 @@ Here, we mix **state management magic** with a touch of chaos.
 - **expo-status-bar 3.0.8**
 ---
 
-## What This App Does 
+## What This App Does 📱
 
 - Starts with a background image (`developapp.png`)  
 - Shows a button: **“Click Here”**.  
