@@ -5,8 +5,6 @@ This app is small, but like Rick Sanchez says:
 
  *“Sometimes science is more art than science, Morty. A lot of it is about having fun.”*  
  
-Here, we mix **state management magic** with a touch of chaos.  
-
 ---
 
 ## Technologies 🛠️
